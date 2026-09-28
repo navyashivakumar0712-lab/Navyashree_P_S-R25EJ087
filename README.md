@@ -3,3 +3,6 @@ My name is Navyashree.P.S and I am studying Engineering. This repository contain
 Learning Data Structure
 Interested in software development
 Goal: contribute to open source
+## Projects
+
+FarmBridge is a platform that connects farmers directly with institutional buyers and helps coordinate fresh produce delivery.
